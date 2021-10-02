@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/evilsocket/islazy/tui"
+	"github.com/guozhaoyun/islazy/tui"
 )
 
 // Verbosity represents the verbosity level of the logger.

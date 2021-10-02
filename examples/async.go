@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/evilsocket/islazy/async"
+	"github.com/guozhaoyun/islazy/async"
 )
 
 func main() {

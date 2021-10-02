@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/evilsocket/islazy/tui"
+	"github.com/guozhaoyun/islazy/tui"
 )
 
 var (
